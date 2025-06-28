@@ -1,16 +1,30 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My nom est Moulaye Amadou Dagnon,  je suis un jeune Malien</p>
+<p align="center">My nom est Moulaye Amadou Dagnon,  je suis un jeune Malien</p>
 
 ###
 
-<h3 align="left">Je suis un jeune développeur dynamique et j’aime travailler en équipe pour relever des challenges techniques. J’ai une bonne maîtrise des outils de développement et je suis en constante recherche d’apprentissage</h3>
+<h3 align="center">Je suis un jeune développeur dynamique et j’aime travailler en équipe pour relever des challenges techniques. J’ai une bonne maîtrise des outils de développement et je suis en constante recherche d’apprentissage</h3>
 
 ###
 
-<p align="left">✨ Je crée des solutions web qui réponde a des besoins  <br>📚 Je suis actuellement en étude supérieur <br>🎯 Continuer à grandir dans le développement full-stack, explorer des technos qui me feront apprendre davantage , et collaborer sur des projets innovants. J’adore échanger sur la tech et découvrir de nouvelles approches.<br><br>@ moulayedagnon@gmail.com</p>
+<p align="left">✨ Je crée des solutions web qui réponde a des besoins  <br>📚 Je suis actuellement en étude supérieur <br>🎯 Continuer à grandir dans le développement full-stack, explorer des technos qui me feront apprendre davantage , et collaborer sur des projets innovants. J’adore échanger sur la tech et découvrir de nouvelles approches.</p>
+
+###
+
+<div align="center">
+  <a href="moulayedagnon@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/moulaye-amadou-dagnon-07a224292/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/DagnonMoulaye" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
 
@@ -18,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -42,6 +56,6 @@
 
 ###
 
-<p align="left">Merci pour votre visite</p>
+<p align="center">Merci pour votre visite</p>
 
 ###
